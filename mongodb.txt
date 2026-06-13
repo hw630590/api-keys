@@ -1,3 +1,4 @@
+SOURCE: https://gist.github.com/win3zz/0a1c70589fcbea64dba4588b93095855?permalink_comment_id=6197173#gistcomment-6197173
 mongodb+srv://MapDataUser:W7TYVcupJK1qWU@cluster0.2tkfm.mongodb.net/strikezone?retryWrites=true&w=majority
 mongodb+srv://RahulkrSharma:Rahul2004@cluster0.iym0aat.mongodb.net/Alpha-Tribe?retryWrites=true&w=majority
 mongodb+srv://argha:argha@clustercrs.aeb0l.mongodb.net/?retryWrites=true&w=majority&appName=ClusterCRS
