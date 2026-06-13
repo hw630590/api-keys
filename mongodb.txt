@@ -6,3 +6,6 @@ mongodb+srv://Elkber:Elkber@cluster0.feuljpn.mongodb.net/?retryWrites=true&w=maj
 mongodb+srv://raj:raj3052006@cluster0.ltlldlu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 mongodb+srv://L2RKING:BWF_MUSIC1@l2rking.1ikcd.mongodb.net/?retryWrites=true&w=majority
 mongodb+srv://sumith:sumith@cluster0.qzdukwu.mongodb.net/unite-defi-relayer?retryWrites=true
+mongodb+srv://pranshujain0221:abc%40123@richpanel-assingment.rplhf7o.mongodb.net/?retryWrites=true&w=majority
+mongodb+srv://shashankbhardwaj2030:U7QON8tXZyD09xkc@cluster0.stopce1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+mongodb+srv://coderhouse:codercoder2023@cluster0.wpxpupc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
